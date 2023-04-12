@@ -11,3 +11,5 @@
 # Some Dictionary Problems
 
 # if-else & loop related problems
+
+# Some Funtions related problems
