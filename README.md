@@ -19,3 +19,5 @@
 # Numpy Related Problems
 
 # Pandas Related Problems
+
+# Data Visualization Problems
