@@ -15,3 +15,5 @@
 # Some Funtions related problems
 
 # Oops Related Problem
+
+# Numpy Related Problems
